@@ -8,3 +8,5 @@ Also Use Binding ext file Methods that Develop by Me.
 You Just Need to Connect these Files to each other.
 You also able to Add your own File encryption method.
 For Connection you need to understand File Handling.
+
+Encryption Algorithms AES ::www.aescrypt.com
