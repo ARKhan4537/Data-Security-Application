@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "Detectusb.exe", 0, True

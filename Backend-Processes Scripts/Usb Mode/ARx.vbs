@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "12345.exe", 0, True
